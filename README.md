@@ -23,4 +23,4 @@
   </a>
 </div>
 <!-->
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vypmbcqva6y5hlwy2643phzyo4)
+[Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31vypmbcqva6y5hlwy2643phzyo4)
