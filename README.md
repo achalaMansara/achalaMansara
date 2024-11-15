@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/achalaMansara/achalaMansara/main/wave-1.svg"" />
+<img src="https://raw.githubusercontent.com/achalaMansara/achalaMansara/main/wave-1.svg" />
 
 - 👋 Hi, I’m @achalaMansara
 - 👀 I’m interested in ...
